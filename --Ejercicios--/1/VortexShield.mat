@@ -18,7 +18,19 @@ Material:
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
-    m_TexEnvs: []
+    m_TexEnvs:
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
+    - _Falloff: 4.13
+    - _Float4: 15
+    - _Intensity: 0.92
+    - _NoiseScale: 8
+    - _Noiseintensity: 0.6
+    - _RotationSpeed: 0.4
+    - _Tiling: 15
     - __dirty: 0
-    m_Colors: []
+    m_Colors:
+    - _VortexTint: {r: 0, g: 2.118547, b: 2.118547, a: 0}
